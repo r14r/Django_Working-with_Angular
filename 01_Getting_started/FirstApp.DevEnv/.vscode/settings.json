@@ -1,0 +1,13 @@
+{
+  "python.pythonPath": "/CLOUD/Development.Python/Repositories.FromGithub/repositories/python-toolbox/Working-with-Django/.env/python/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": false,
+  "files.exclude": {
+    "MainSite/__pycache__": true,
+    "polls/__pycache__": true,
+    "**/__pycache__": true,
+    "**/__pycache__.*": true,
+    ".idea": true
+  }
+}
